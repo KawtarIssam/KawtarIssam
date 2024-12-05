@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KawtarIssam
-- 👀 I’m interested in AI,CV and Data science 
+- 👀 I’m interested in AI,ML and Data science 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on chatbots and GenAi projects 
 - 📫 How to reach me kawtarissam@hotmail.com
